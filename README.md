@@ -1,2 +1,2 @@
-# Especificaci-n-y-An-lisis-de-Requerimientos
+# Especificación-y-Análisis-de-Requerimientos
 Grupo 1:
